@@ -24,26 +24,26 @@ async def start_(client: Client, message: Message):
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🫶🏻 by : [𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀❤️‍🔥](https://t.me/MT_LEXTUS_XD) ** """,
+➻ Made 🫶🏻 by : [ KRISHNA 🔥🔥 ](https://t.me/krishna_op_143) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✚Add Me To Your Group✚  ", url=f"https://t.me/MOON_X_MUSIC_BOT?startgroup=true"
+                        "✚Add Me To Your Group✚  ", url=f"https://t.me/CRUSH_MUSIC_BOT?startgroup=true"
                        ),
                  ],[
                     InlineKeyboardButton(
-                        "⚔️ Support My Channel  ", url=f"https://t.me/AASHIYANA_MERA"
+                        "⚔️ Support My Channel  ", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE"
                     ),
                     InlineKeyboardButton(
-                        "⚔️ Support My Group ", url=f"https://t.me/COOKIE_WORLD"
+                        "⚔️ Support My Group ", url=f"https://t.me/TOXIC_WORLD_2"
                     )
                   ],[
                     InlineKeyboardButton(
-                        "👤 Real Owner ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👤 Real Owner ", url=f"https://t.me/krishna_op_143"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/MT_LEXTUS_XD"
+                        "👨‍💻 Developer ", url=f"https://t.me/krishna_op_143"
                     ),
                   ],[
                     InlineKeyboardButton(
