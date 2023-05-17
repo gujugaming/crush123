@@ -29,7 +29,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✚Add Me To Your Group✚  ", url=f"https://t.me/CRUSH_MUSIC_BOT?startgroup=true"
+                        "✚Add Me To Your Group✚  ", url=f"https://t.me/CRUSH1_MUSIC_BOTT?startgroup=true"
                        ),
                  ],[
                     InlineKeyboardButton(
