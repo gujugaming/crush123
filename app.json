@@ -23,7 +23,7 @@
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": "CRUSH_X_MUSIC_BOT"
+      "value": "CRUSH1_MUSIC_BOT"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
@@ -36,18 +36,18 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "MT_LEXTUS_XD"
+      "value": "krishna_op_143"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "COOKIE_WORLD"
+      "value": "TOXIC_WORLD_2"
 
     },
     "CHANNEL_UPDATES": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "AASHIYANA_MERA"
+      "value": "CRUSH_WORLD_DP_GIF_ZONE"
 
     },
     "SUDO_USERS": {
