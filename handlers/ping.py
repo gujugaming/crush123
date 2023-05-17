@@ -55,15 +55,15 @@ async def help(client: Client, message: Message):
         caption=" Pinging...⚡ ",
     )
     await jay.edit_text(
-        f"""<b> 𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀 𝙓 𝙈𝙐𝙎𝙄𝘾 ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [𝙼𝙾𝙾𝙽𝚂𝙷𝙸𝙽𝙴🥀](https://t.me/MT_LEXTUS_XD)||""",
+        f"""<b> KRISHNA 𝙓 𝙈𝙐𝙎𝙄𝘾 ⚡</b>\n  🏓 `{resp} ms`\n\n<b><u>{BOT_NAME} system stats:</u></b>\n\n✨ Uptime : {bot_uptime}\n🔮 Cpu : {cpu}%\n💫 Disk : {disk}%\n❤️ Ram : {mem}\n\n||ᴍᴀᴅᴇ 🖤 ʙʏ [𝙼𝙾𝙾𝙽𝚂𝙷𝙸𝙽𝙴🥀](https://t.me/MT_LEXTUS_XD)||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support ", url=f"https://t.me/COOKIE_WORLD"
+                        "📨 Support ", url=f"https://t.me/TOXIC_WORLD_2"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel ", url=f"https://t.me/AASHIYANA_MERA"
+                        "📨 Channel ", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE"
                     ),
                 ],
                 [
