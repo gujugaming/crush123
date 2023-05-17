@@ -18,12 +18,12 @@
     "BOT_NAME": {
       "description": "A name for your MusicPlayer Bot",
       "required": false,
-      "value": "⏤͟͟͢͞͞ 𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀 𝙓 𝙈𝙐𝙎𝙄𝘾⏤͟͟͢͞͞"
+      "value": "⏤͟͟͢͞͞ KRISHNA 𝙓 𝙈𝙐𝙎𝙄𝘾⏤͟͟͢͞͞"
     },
     "BOT_USERNAME": {
       "description": "Username of your bot without @",
       "required": false,
-      "value": "MOON_X_MUSIC_BOT"
+      "value": "CRUSH_X_MUSIC_BOT"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
