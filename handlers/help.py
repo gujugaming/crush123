@@ -10,7 +10,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 async def help_cmd(client: Client, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAEOnXRj0K3rOj2KzPQEII_mzUUJf65_0AACUAcAAjA5gFZaJKzDHxVmBC0E")
     await message.reply_photo(f"{START_IMG}", caption=f"""
-🔴 **AVAILABLE COMMAND IN 𝙈𝙊𝙊𝙉𝙎𝙃𝙄𝙉𝙀 𝙓 𝙈𝙐𝙎𝙄𝘾 :**
+🔴 **AVAILABLE COMMAND IN KRISHNA 𝙓 𝙈𝙐𝙎𝙄𝘾 :**
 
 ✅ /play : Start streaming the requested track on videochat.
 ✅ /pause : Pause the stream.
@@ -34,10 +34,10 @@ async def help_cmd(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📨 Support", url=f"https://t.me/COOKIE_WORLD"
+                        "📨 Support", url=f"https://t.me/TOXIC_WORLD_2"
                     ),
                     InlineKeyboardButton(
-                        "📨 Channel", url=f"https://t.me/AASHIYANA_MERA"
+                        "📨 Channel", url=f"https://t.me/CRUSH_WORLD_DP_GIF_ZONE"
                     )
                 ],
                 [
