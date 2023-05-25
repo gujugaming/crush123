@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f""" ** Hey {message.from_user.mention()} , ⚔️\n\n
 ๏ This is [{bn}](t.me/{bu})
 ➻ 👑Official Account🖤
-💟Wish Me On 15 August 🎂
+💟Wish Me On 16/4 🎂
 ⚡My Life My Rules💪
 🎶Music ka Diwana💥
 🕉️Mahadev Bhakt🕉️
