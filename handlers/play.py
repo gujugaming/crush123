@@ -206,8 +206,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/COOKIE_WORLD"),
-                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/AASHIYANA_MERA")
+                    InlineKeyboardButton("📨 Support", url=f"https://t.me/@TOXIC_WORLD_2"),
+                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/@CRUSH_WORLD_DP_GIF_ZONE")
                 ],
                 [
                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
@@ -232,8 +232,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📨 Support", url=f"https://t.me/COOKIE_WORLD"),
-                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/AASHIYANA_MERA")
+                    InlineKeyboardButton("📨 Support", url=f"https://t.me/@TOXIC_WORLD_2"),
+                    InlineKeyboardButton("📨 Channel ", url=f"https://t.me/@CRUSH_WORLD_DP_GIF_ZONE")
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
